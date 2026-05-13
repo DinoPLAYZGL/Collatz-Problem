@@ -32,7 +32,7 @@ while True:
     
     Digit = input("INPUT - ")
 
-    x = int(Digit)
+    x = float(Digit)
     while True:
         
         AllDigits.append(x)
