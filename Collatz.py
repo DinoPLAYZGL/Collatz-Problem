@@ -38,7 +38,7 @@ while True:
         AllDigits.append(x)
         #print( "FIRST INTIGER - " + str(x))
         
-        if x == 1:
+        if x == 1 or x == -1:
 
             print( "----------------------------------\n")
             print( "=====================================")
