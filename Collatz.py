@@ -44,7 +44,7 @@ while True:
             print( "=====================================")
             print( "FIRST INP   - " + str(AllDigits[0]))
             print( "FINALOUTPUT - " + str(x))
-            print( "LIST MAX    - " + str(FullList(AllDigits)))
+            print( "LIST MAX    - " + str(FullList(AllDigits)-1))
             print( "=====================================")  
             print( "ALL VALUES  - " + str(AllDigits))
             print( "=====================================")
